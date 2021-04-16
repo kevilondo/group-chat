@@ -1,3 +1,28 @@
+# Group Chat Application in Laravel and Vue Js
+
+After cloning the project
+
+1. Rename ```.env.example``` file to ```.env```
+
+For real time features, go to https://pusher.com/ create an account and put your pusher credentials in the ```.env``` file
+
+2. Put your database details in ```.env``` file
+
+3. Type ```composer update``` to install the composer packages
+
+4. Type ```npm install``` or ```npm update``` to install node modules
+
+5. Type ```php artisan migrate``` to migrate the tables
+
+6. ```php artisan serve``` to start using the app.
+
+7. Finally ```npm run dev``` to start Vue Js development mode
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
